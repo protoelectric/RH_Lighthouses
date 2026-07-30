@@ -1,5 +1,2 @@
-# Reality Hack Lighthouse
-## Documentation + firmware
-
-
-To build the firmware read the README in the firmware directory.
+# RH Lighthouses
+Official, continued version of the RH lighthouses, post software/hardware team split. Full readme.md will be implemented soon tm.
