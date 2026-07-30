@@ -1,0 +1,10 @@
+[project]
+name = "rh-lighthouses"
+version = "0.1.0"
+description = "Bridging Reality Hack physical lighthouses to discord"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "discord>=2.3.2",
+    "python-dotenv>=1.2.2",
+]
